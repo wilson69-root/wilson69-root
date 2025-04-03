@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wilson69-root
-- 👀 I’m interested in computers, programming, artifi
+- 👀 I’m interested in computers, programming, cyber security
 - 🌱 I’m currently learning Python, MySql and Artificial Intelligence
 - 💞️ I’m looking to collaborate on scalable solutions
 - 📫 How to reach me via wilsonkevinngatia@gmail.com
